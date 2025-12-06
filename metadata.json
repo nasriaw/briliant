@@ -1,0 +1,8 @@
+{
+  "name": "Briliant",
+  "description": "Aplikasi cerdas untuk petani padi: deteksi hama dan solusi pembasmian menggunakan AI.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ]
+}
